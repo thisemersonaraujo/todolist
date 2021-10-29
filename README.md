@@ -1,4 +1,4 @@
 # todolist
-To-Do list using angular 6 and material-kit.
+To-Do list using react.
 
 Link: https://thistodoreact.herokuapp.com/
